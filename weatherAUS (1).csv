@@ -1,0 +1,4 @@
+Date,Location,MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustDir,WindGustSpeed,WindDir9am,WindDir3pm,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm,Temp9am,Temp3pm,RainToday,RainTomorrow
+2021-01-01,Sydney,20.1,30.5,0.0,5.0,8.0,NW,35,N,W,20,15,68,45,1012.3,1009.5,4,3,24.0,29.5,No,Yes
+2021-01-02,Melbourne,15.5,25.0,5.4,4.8,7.2,SW,45,S,E,15,10,75,50,1015.1,1012.0,6,5,18.5,23.0,Yes,No
+2021-01-03,Brisbane,23.4,33.3,0.2,6.0,9.0,NE,30,E,S,25,20,80,60,1010.5,1007.3,3,2,26.3,31.8,No,No
